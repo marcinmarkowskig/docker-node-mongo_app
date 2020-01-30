@@ -1,0 +1,12 @@
+Marcin@Marcin MINGW64 ~/Desktop/docker exercises/2node-mongo-docker
+$ cd docker-node-mongo/
+
+Marcin@Marcin MINGW64 ~/Desktop/docker exercises/2node-mongo-docker/docker-node-mongo (master)
+$ ls
+docker-compose.yml  index.js  node_modules/  package-lock.json  views/
+Dockerfile          models/   package.json   README.md
+
+Marcin@Marcin MINGW64 ~/Desktop/docker exercises/2node-mongo-docker/docker-node-mongo (master)
+$ docker-compose up
+Creating network "docker-node-mongo_default" with the default driver
+Pulling mongo (mongo:)...
